@@ -6,3 +6,5 @@ a = input('Введите слово: ').lower()
 
 print('Это палиндром' if a == a[::-1] else 'Это слово не палидром!')
 # this is test
+
+# pull request test
